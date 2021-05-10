@@ -1,5 +1,5 @@
 ***🦈 Hey you! Welcome to my Focus Projects Page!🦈***
-===============================================
+=======================================================
 
 This is a place for me to flex all my projects I do for my TKS Focus, which, by the way, is about Quantum Computing.
 You can also read about the stuff I write on [Medium](https://max-c.medium.com)! 
@@ -46,7 +46,7 @@ Project #1: Quantum Operations
 ------------------------------
 ### About the Project
 In this project, I learned about the basic quantum operations that a quantum computer uses to perform quantum computations.
-The 
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
