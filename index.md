@@ -1,13 +1,18 @@
-**Hey you! Welcome to my Focus Projects Page!**
+***Hey you! Welcome to my Focus Projects Page!***
 ===============================================
 
 This is a place for me to flex all my projects I do for my TKS Focus, which, by the way, is about Quantum Computing.
 You can also read about the stuff I write on [Medium](https://max-c.medium.com)! 
 And while you're here, why not apply to [TKS](https://tks.life)?
 Anyways, enjoy the content and feel free to do a little exploring on your own!
-Be **intentional** and **get sh\*t done!**
 
-### Markdown
+Introduction to Quantum Computing
+---------------------------------
+
+Ever wondered what quantum computing is? 
+Or maybe you've never even heard of it before! 
+Well, quantum computing is using quantum phenomena, such as *entanglement*, *superposition* and *teleportation* to perform computations.
+The devices that perform quantum computations are no doubt called quantum computers.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
