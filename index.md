@@ -24,7 +24,17 @@ Here are some courses you might want to check out!
 ## About Me
 Hello everybody, and welcome! I'm Max, a teenager and future unicorn 🦄 person, also known as an innovator at [The Knowledge Society aka TKS](https://tks.world).
 I'm interested in a lot of different emerging technologies, but my main interests right now are Quantum Computing ⚛️, Blockchain 💵, Artificial Intelligence 🤖, and last but not least, Space Tech/Exploration 🚀.
-So yeah, that's basically who I am.
+So yeah, that's basically who I am. You can check out my social media profiles below.  
+<p>
+  <a href="https://www.linkedin.com/in/max-cui-9889641b7/" rel="nofollow noreferrer">
+    <img src = "https://i.stack.imgur.com/gVE0j.png" alt="linkedin">
+    LinkedIn
+  </a> &nbsp;
+  <a href = "https://github.com/TKSMax" rel="nofollow noreferrer">
+    <img src = "https://i.stack.imgur.com/tskMh.png" alt="github">
+    GitHub
+  </a>
+</p>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
