@@ -1,4 +1,4 @@
-***Hey you! Welcome to my Focus Projects Page!***
+***🦈Hey you! Welcome to my Focus Projects Page!🦈***
 ===============================================
 
 This is a place for me to flex all my projects I do for my TKS Focus, which, by the way, is about Quantum Computing.
@@ -20,6 +20,11 @@ Here are some courses you might want to check out!
 - [Quantum Conputing. Less Formulas More - Understanding](https://coursera.org/learn/quantum-computing-lfmu)
 - [Physical Basics of Quantum Computing](https://coursera.org/learn/physical-basis-quantum-computing)
 - [EdX courses!](https://edx.org/learn/quantum-computing)
+
+## About Me
+Hello everybody, and welcome! I'm Max, a teenager and future unicorn 🦄 person, also known as an innovator at [The Knowledge Society aka TKS](https://tks.world).
+I'm interested in a lot of different emerging technologies, but my main interests right now are Quantum Computing ⚛️, Blockchain 💵, Artificial Intelligence 🤖, and last but not least, Space Tech/Exploration 🚀.
+So yeah, that's basically who I am.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
