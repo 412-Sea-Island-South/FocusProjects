@@ -33,6 +33,14 @@ So yeah, that's basically who I am. You can check out my social media profiles b
   <a href = "https://github.com/TKSMax" rel="nofollow noreferrer">
     <img src = "https://i.stack.imgur.com/tskMh.png" alt="github">
     GitHub
+  </a> &nbsp;
+  <a href="https://max-c.medium.com" rel="nofollow noreferrer">
+    <img src = "https://cdn.mos.cms.futurecdn.net/uazw6gFQuEC29mxMM55Tpb-970-80.jpg" alt="medium">
+    Medium
+  </a> &nbsp;
+  <a href = "https://maxmcui.substack.com" rel="nofollow noreferrer">
+    <img src="https://cdn.substack.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F49be2356-6491-4a6f-84a5-15e99d23b6d1_256x256.png" alt="substack">
+    Sub to my Newsletter
   </a>
 </p>
 
