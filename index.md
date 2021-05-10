@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+##Hey you! Welcome to my Focus Projects Page!
 
-You can use the [editor on GitHub](https://github.com/TKSMax/FocusProjects/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a place for me to flex all my projects I do for my TKS Focus, which, by the way, is about Quantum Computing.
+You can also read about the stuff I write on [Medium](https://max-c.medium.com)! 
+And while you're here, why not apply to [TKS](https://tks.life)?
+Anyways, enjoy the content and feel free to do a little exploring on your own!
+Be **intentional** and **get sh\*t done!**
 
 ### Markdown
 
