@@ -1,4 +1,4 @@
-***🦈Hey you! Welcome to my Focus Projects Page!🦈***
+***🦈 Hey you! Welcome to my Focus Projects Page!🦈***
 ===============================================
 
 This is a place for me to flex all my projects I do for my TKS Focus, which, by the way, is about Quantum Computing.
@@ -41,6 +41,12 @@ Here are some courses you might want to check out!
 - [Quantum Conputing. Less Formulas More - Understanding](https://coursera.org/learn/quantum-computing-lfmu)
 - [Physical Basics of Quantum Computing](https://coursera.org/learn/physical-basis-quantum-computing)
 - [EdX courses!](https://edx.org/learn/quantum-computing)
+
+Project #1: Quantum Operations
+------------------------------
+### About the Project
+In this project, I learned about the basic quantum operations that a quantum computer uses to perform quantum computations.
+The 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
