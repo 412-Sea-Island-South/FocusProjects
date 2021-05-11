@@ -51,10 +51,12 @@ You can sign up for it [here](https://quantum-computing.ibm.com).
 *This was made in 2020 and is not up to date due to a recent IBM update.*
 
 ### What are Quantum Operations?
-Quantum Operations are operations used to manipulate quantum bits (or [qubits](https://en.wikipedia.org/wiki/Qubit), for short).
-```python
-print("hello world")
-```
+Quantum Operations are operations used to manipulate quantum bits (or [qubits](https://en.wikipedia.org/wiki/Qubit), for short) in quantum circuits.
+They include quantum gates (think of the classical **AND, OR, NOT** gates), as well as some operations that are not quantum gates, but still manipulate qubits.
+A quantum gate, by the way, is just a basic circuit (i.e electrical pulses)operating on a small number of qubits.
+They are the building blocks of quantum circuits, and can be put together like LEGOs.
+There are different types of quantum gates, such as Clifford gates, and diagonal gates.
+You can read more about Quantum Operations in [my article](https://www.medium.com/swlh/introduction-to-quantum-operations-e797fae3fab).
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
