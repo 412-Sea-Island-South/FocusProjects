@@ -58,6 +58,12 @@ They are the building blocks of quantum circuits, and can be put together like L
 There are different types of quantum gates, such as Clifford gates, and diagonal gates.
 You can read more about Quantum Operations in [my article](https://www.medium.com/swlh/introduction-to-quantum-operations-e797fae3fab).
 
+### Applying Quantum Operations
+#### Creating a Superposition
+We'll start off with the most basic thing possible.
+And that is to create a simple superposition of two qubits.
+We do this using the Hadamard gate.
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
