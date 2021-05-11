@@ -46,6 +46,12 @@ Project #1: Quantum Operations
 ------------------------------
 ### About the Project
 In this project, I learned about the basic quantum operations that a quantum computer uses to perform quantum computations.
+The quantum operations I will be introducing you to are for the IBM Quantum Experience, which is a cloud-based Quantum Computing service.
+You can sign up for it [here](https://quantum-computing.ibm.com).  
+*This was made in 2020 and is not up to date due to a recent IBM update.*
+
+### What are Quantum Operations?
+Quantum Operations are operations used to manipulate quantum bits (or [qubits](https://en.wikipedia.org/wiki/Qubit), for short).
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
