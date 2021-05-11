@@ -52,7 +52,9 @@ You can sign up for it [here](https://quantum-computing.ibm.com).
 
 ### What are Quantum Operations?
 Quantum Operations are operations used to manipulate quantum bits (or [qubits](https://en.wikipedia.org/wiki/Qubit), for short).
-
+```python
+print("hello world")
+```
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
