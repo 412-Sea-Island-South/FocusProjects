@@ -64,7 +64,7 @@ We'll start off with the most basic thing possible, which is to create a simple 
 We do this using the Hadamard gate.
 It rotates the states
 <html>
-  <img src="https://render.githubusercontent.com/render/math?math=|0\rangle">
+  <img src="https://render.githubusercontent.com/render/math?math=\color{White}|0\rangle">
 </html>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
