@@ -64,36 +64,6 @@ We'll start off with the most basic thing possible, which is to create a simple 
 We do this using the Hadamard gate.
 It rotates the states
 <html>
-  <img src="https://render.githubusercontent.com/render/math?math=\color{White}|0\rangle"> &nbsp;
-  <p> to </p>
+  <img src="https://render.githubusercontent.com/render/math?math=\color{White}|0\rangle%2Band%2B|1\rangle%2Bto%2Bthe%2Bstates%2B|\plus\rangle%2Band%2B|\minus\rangle">
 </html>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TKSMax/Dilmof/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
