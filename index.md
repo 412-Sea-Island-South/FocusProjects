@@ -62,7 +62,7 @@ You can read more about Quantum Operations in [my article](https://www.medium.co
 #### Creating a Superposition
 We'll start off with the most basic thing possible, which is to create a simple superposition of two qubits.
 We do this using the Hadamard gate.
-It rotates the states |0⟩ and |1⟩ to the states |+⟩ and |-⟩, respectively.
+It rotates the states |0⟩ and |1⟩ to the states |+⟩ and |-⟩, respectively.  
 Lets see how it works!  
 
 ##### IBM Quantum Experience
@@ -70,9 +70,9 @@ We'll head on over to [IBM Quantum Experience](https://quantum-computing.ibm.com
 First, we'll remove the extraneous qubits \(if there are any\), ad we'll be left with two qubits, q0 and q1.
 We start by dragging-and-dropping the orange-ish Hadamard gate icon and putting it onto the q0 line.
 Then, we add a CNOT gate to the two qubits, with the big plus-in-a-dot on the q1 line and the small dot on the q0 line.
-Finally, we add measurement gates to the q0 and q1 lines.
-Success!
-You have created your first quantum circuit: a simple superposition!
+Finally, we add measurement gates to the q0 and q1 lines.  
+Success!  
+You have created your first quantum circuit: a simple superposition!  
 We'll move on to create a Bell state, which is slightly harder.
 
 ##### Qiskit Code
