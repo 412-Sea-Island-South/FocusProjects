@@ -66,6 +66,9 @@ It rotates the states
 <html>
   <img src="https://render.githubusercontent.com/render/math?math=\color{White}|0\rangle">
 </html>
+```LaTeX
+$\pi$
+```
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
