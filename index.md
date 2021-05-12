@@ -60,9 +60,9 @@ You can read more about Quantum Operations in [my article](https://www.medium.co
 
 ### Applying Quantum Operations
 #### Creating a Superposition
-We'll start off with the most basic thing possible.
-And that is to create a simple superposition of two qubits.
+We'll start off with the most basic thing possible, which is to create a simple superposition of two qubits.
 We do this using the Hadamard gate.
+It rotates the states \\(|0\rangle\\) and \\(|1\rangle\\) to the states \\(|+\rangle\\) and \\(|-\rangle\\).
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
