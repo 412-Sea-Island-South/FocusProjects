@@ -62,8 +62,6 @@ You can read more about Quantum Operations in [my article](https://www.medium.co
 #### Creating a Superposition
 We'll start off with the most basic thing possible, which is to create a simple superposition of two qubits.
 We do this using the Hadamard gate.
-It rotates the states
-<html>
-  <img src="https://render.githubusercontent.com/render/math?math=\color{White}|0\rangle%2Band%2B|1\rangle%2Bto%2Bthe%2Bstates%2B|\plus\rangle%2Band%2B|\minus\rangle">
-</html>
+It rotates the states |0⟩ and |1⟩ to the states |+⟩ and |-⟩, also known as 1/√2(|0⟩+|1⟩) and 1/2(|0⟩-|1⟩).
+Lets see how it works!
 
