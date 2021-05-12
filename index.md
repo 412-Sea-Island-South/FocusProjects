@@ -71,9 +71,9 @@ First, we'll remove the extraneous qubits \(if there are any\), ad we'll be left
 We start by dragging-and-dropping the orange-ish Hadamard gate icon and putting it onto the q0 line.
 Then, we add a CNOT gate to the two qubits, with the big plus-in-a-dot on the q1 line and the small dot on the q0 line.
 Finally, we add measurement gates to the q0 and q1 lines.  
-Success!  
+Success!
 You have created your first quantum circuit: a simple superposition!  
-We'll move on to create a Bell state, which is slightly harder.
+We'll move on to creating a Bell state, which is slightly harder.
 
 ##### Qiskit Code
 This is the Qiskit code which you can open in the IBM Quantum Lab.
@@ -86,3 +86,5 @@ circuit = QuantumCircuit(qreg_q, creg_c)
 circuit.h(qreg_q[0])
 circuit.cx(qreg_q[0]. qreg_q[1])
 ```
+
+#####Measurement Probabilities
