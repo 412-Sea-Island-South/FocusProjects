@@ -63,9 +63,9 @@ You can read more about Quantum Operations in [my article](https://www.medium.co
 We'll start off with the most basic thing possible, which is to create a simple superposition of two qubits.
 We do this using the Hadamard gate.
 It rotates the states
-```html
-<img src="https://render.githubusercontent.com/render/math?math=|0\rangle">
-```
+<html>
+  <img src="https://render.githubusercontent.com/render/math?math=|0\rangle">
+</html>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
