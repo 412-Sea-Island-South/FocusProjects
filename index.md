@@ -70,6 +70,6 @@ We'll head on over to [IBM Quantum Experience](https://quantum-computing.ibm.com
 First, we'll remove the extraneous qubits \(if there are any\), ad we'll be left with two qubits, q0 and q1.
 We start by dragging-and-dropping the
 <html>
-  <span style="color: orange;">orange</span>
+  <p style="color: orange;">orange</p>
 </html>
 Hadamard gate icon and putting it onto the q0 line.
