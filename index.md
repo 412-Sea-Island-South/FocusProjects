@@ -62,7 +62,10 @@ You can read more about Quantum Operations in [my article](https://www.medium.co
 #### Creating a Superposition
 We'll start off with the most basic thing possible, which is to create a simple superposition of two qubits.
 We do this using the Hadamard gate.
-It rotates the states $$|0\rangle\\)$$ and $$\\(|1\rangle\\)$$ to the states $$\\(|+\rangle\\)$$ and $$\\(|-\rangle\\)$$.
+It rotates the states
+```html
+<img src="https://render.githubusercontent.com/render/math?math=|0\rangle">
+```
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
