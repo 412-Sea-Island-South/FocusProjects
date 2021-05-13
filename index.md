@@ -51,3 +51,6 @@ If you want to view the complete project, [click here](https://tksmax.github.io/
 
 Project #2: Superdense Coding
 -----------------------------
+### About the Project
+In this project, I explored the world of Quantum Cryptography, and learned about the Superdense Coding Protocol.
+The SDC
