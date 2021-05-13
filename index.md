@@ -47,7 +47,7 @@ Project #1: Quantum Operations
 In this project, I learned about the basic quantum operations that a quantum computer uses to perform quantum computations.
 The quantum operations I will be introducing you to are for the IBM Quantum Experience, which is a cloud-based Quantum Computing service.
 You can sign up for it [here](https://quantum-computing.ibm.com).  
-If you want to view the complete project, [click here]()!  
+If you want to view the complete project, [click here](https://tksmax.github.io/Project1)!  
 
 Project #2: Superdense Coding
 -----------------------------
