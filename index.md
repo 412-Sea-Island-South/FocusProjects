@@ -61,4 +61,5 @@ There are three steps to the Superdense Coding Protocol, which are
 1. *Preparation*
 2. *Encoding*
 3. *Decoding*
+   
 If you want to view the full thing, [click here](https://tksmax.github.io/Project2)!
