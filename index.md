@@ -75,9 +75,10 @@ It also serves as a Quantum Computing "hack" called the *Amplitude Amplification
 But that's not all!
 You can also solve satisfiability problems (like the 2SAT and 3SAT), and even sudokus!
   
-If you want to read more about Grover's Algorithm and how it works, [this article](https://medium.om/nerd-for-tech/grovers-algorithm-3ac4616ce23a) is a great place to begin!  
+If you want to read more about Grover's Algorithm and how it works, [this article](https://medium.com/nerd-for-tech/grovers-algorithm-3ac4616ce23a) is a great place to begin!  
 Or, you can view the project page [here](https://tksmax.github.io/Grovers-Algorithm)!  
 Lastly, if you want to see some of the cool stuff Grover's Algorithm can do:
 - Solving Satisfiability Problems: [click here](https://tksmax.github.io/Grover-3SAT)
 - Solving Sudokus: [click here](https://tksmax.github.io/Grover-Sudoku)
+  
 Enjoy!
