@@ -47,7 +47,7 @@ Project #1: Quantum Operations
 In this project, I learned about the basic quantum operations that a quantum computer uses to perform quantum computations.
 The quantum operations I will be introducing you to are for the IBM Quantum Experience, which is a cloud-based Quantum Computing service.
 You can sign up for it [here](https://quantum-computing.ibm.com).  
-If you want to view the complete project, [click here](https://tksmax.github.io/Project1)!  
+If you want to view the complete project, [click here](https://tksmax.github.io/Quantum-Operations)!  
 
 Project #2: Superdense Coding
 -----------------------------
@@ -62,4 +62,22 @@ There are three steps to the Superdense Coding Protocol, which are
 2. *Encoding*
 3. *Decoding*
    
-If you want to view the full thing, [click here](https://tksmax.github.io/Project2)!
+If you want to view the full thing, [click here](https://tksmax.github.io/SuperDense-Coding)!
+  
+Project #3: Grover's Algorithm
+------------------------------
+### About the Project
+In this project, I learned about and recreated one of the most well-known Quantum Algorithms, namely **Grover's Algorithm**.
+It was discovered by Lov Grover in 1996, twenty-five years ago.
+This algorithm is a search algorithm, and it demonstrates the superior speed of a quantum computer in the task of searching through databases.
+It provides a quadratic runtime improvement, which is what makes it so powerful.
+It also serves as a Quantum Computing "hack" called the *Amplitude Amplification Trick*, which can be used to speed up many algorithms.
+But that's not all!
+You can also solve satisfiability problems (like the 2SAT and 3SAT), and even sudokus!
+  
+If you want to read more about Grover's Algorithm and how it works, [this article](https://medium.om/nerd-for-tech/grovers-algorithm-3ac4616ce23a) is a great place to begin!  
+Or, you can view the project page [here](https://tksmax.github.io/Grovers-Algorithm)!  
+Lastly, if you want to see some of the cool stuff Grover's Algorithm can do:
+- Solving Satisfiability Problems: [click here](https://tksmax.github.io/Grover-3SAT)
+- Solving Sudokus: [click here](https://tksmax.github.io/Grover-Sudoku)
+Enjoy!
